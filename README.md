@@ -25,5 +25,5 @@ Curated list of networking guides + cheat sheets<br>
 ## 🧠 Protocol Deep Dives
 - [ARP Cheat Sheet (Cisco)](https://networkwalks.com/wp-content/uploads/2020/03/ARP-cheatsheet-network-walks.pdf) - NetworkWalks
 - [TCP Summary Cheat Sheet](https://networkwalks.com/wp-content/uploads/2020/03/TCP-notes-cheat-sheet-network-walks-academy.pdf) - NetworkWalks
-
+<br>
 <img src="https://github.com/taraisredacted/Networking-Fundamentals-Guides/blob/main/GIFs/dontemailmeaboutit.gif?raw=true" width="300" />
