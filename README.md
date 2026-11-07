@@ -1,5 +1,6 @@
 # Networking-Fundamentals-Guides
 Curated list of networking guides + cheat sheets<br>
+<br>
 <img src="https://github.com/taraisredacted/Networking-Fundamentals-Guides/blob/main/GIFs/cutelittlecomputerdiagram.gif?raw=true" />
 
 <br>
